@@ -1,0 +1,28 @@
+# Project Title: Course Management System
+
+## Introduction
+The Course Management System is a web application designed to facilitate the management of online courses. It allows users to register, log in, and manage their courses effectively.
+
+## Features
+- User registration and authentication
+- Course creation and management
+- Shopping cart functionality for course enrollment
+- User role management
+- Responsive design for mobile and desktop users
+
+## Architecture
+The application follows a layered architecture, including:
+- **Presentation Layer**: Handles user interactions and displays data.
+- **Service Layer**: Contains business logic and interacts with the data layer.
+- **Data Layer**: Manages database interactions and data persistence.
+
+## Technologies Used
+- **Java**: Programming language for backend development.
+- **Spring Boot**: Framework for building RESTful APIs.
+- **Spark**: Lightweight web framework for handling HTTP requests.
+- **H2 Database**: In-memory database for development and testing.
+- **Gson**: Library for JSON serialization and deserialization.
+- **BCrypt**: Library for password hashing.
+
+## Conclusion
+The Course Management System provides a robust solution for managing online courses, with potential for future enhancements such as advanced analytics and user feedback mechanisms.
